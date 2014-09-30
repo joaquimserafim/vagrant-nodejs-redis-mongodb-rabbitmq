@@ -111,7 +111,7 @@ class rabbitmq-server {
 
 include apt_update
 include othertools
-#include nodejs
-#include mongodb
-#include redis-cl
+include nodejs
+include mongodb
+include redis-cl
 include rabbitmq-server
