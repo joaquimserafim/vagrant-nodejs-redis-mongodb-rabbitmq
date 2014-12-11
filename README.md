@@ -7,7 +7,7 @@
 	
 
 
-**redis/mongodb/rabbitmq** *are using the normal configuration (lfile in vagrant/puppet/manifest/main.pp)*
+**redis/mongodb/rabbitmq** *are using the normal configuration (see [here](https://github.com/joaquimserafim/vagrant-nodejs-redis-mongodb-rabbitmq/blob/master/vagrant/puppet/manifests/main.pp#L81))*
 
 
 
